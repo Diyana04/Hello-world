@@ -1,2 +1,2 @@
 # Hello-world
-Birinchi dasturl 
+Pythondagi birinchi dasturim
